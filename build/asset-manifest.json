@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/first-react-diy-app/static/css/main.385055f0.chunk.css",
+    "main.js": "/first-react-diy-app/static/js/main.0d045ed1.chunk.js",
+    "main.js.map": "/first-react-diy-app/static/js/main.0d045ed1.chunk.js.map",
+    "runtime-main.js": "/first-react-diy-app/static/js/runtime-main.88f6819e.js",
+    "runtime-main.js.map": "/first-react-diy-app/static/js/runtime-main.88f6819e.js.map",
+    "static/css/2.cb6bf4cc.chunk.css": "/first-react-diy-app/static/css/2.cb6bf4cc.chunk.css",
+    "static/js/2.4134e376.chunk.js": "/first-react-diy-app/static/js/2.4134e376.chunk.js",
+    "static/js/2.4134e376.chunk.js.map": "/first-react-diy-app/static/js/2.4134e376.chunk.js.map",
+    "static/js/3.fe63887a.chunk.js": "/first-react-diy-app/static/js/3.fe63887a.chunk.js",
+    "static/js/3.fe63887a.chunk.js.map": "/first-react-diy-app/static/js/3.fe63887a.chunk.js.map",
+    "index.html": "/first-react-diy-app/index.html",
+    "static/css/2.cb6bf4cc.chunk.css.map": "/first-react-diy-app/static/css/2.cb6bf4cc.chunk.css.map",
+    "static/css/main.385055f0.chunk.css.map": "/first-react-diy-app/static/css/main.385055f0.chunk.css.map",
+    "static/js/2.4134e376.chunk.js.LICENSE.txt": "/first-react-diy-app/static/js/2.4134e376.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/first-react-diy-app/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88f6819e.js",
+    "static/css/2.cb6bf4cc.chunk.css",
+    "static/js/2.4134e376.chunk.js",
+    "static/css/main.385055f0.chunk.css",
+    "static/js/main.0d045ed1.chunk.js"
+  ]
+}
